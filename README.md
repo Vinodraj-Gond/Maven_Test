@@ -1,1 +1,3 @@
-# Maven_Test
+# maven-project
+
+Sample Maven Project
